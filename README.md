@@ -6,3 +6,10 @@ A map showing surface elevations using lidar that was made in ArchGIS Pro Spring
 * Heights greater than 5 feet
 
 [Visit my webpage ](#)
+![Farm](https://live.staticflickr.com/65535/54366600591_4e066668f9_5k.jpg)
+
+## Kentucky Outline
+
+![Kentucky Outline](Layout_KY_Landcover.jpg)
+
+
